@@ -1,0 +1,18 @@
+{
+  "CONTRACT_ADDRESS": "0xe7F607c9214fF53BbF58629eea55210701555931",
+  "SCAN_LINK": "https://mumbai.polygonscan.com/address/0xe7f607c9214ff53bbf58629eea55210701555931",
+  "NETWORK": {
+    "NAME": "Polygon",
+    "SYMBOL": "Matic",
+    "ID": 137
+  },
+  "NFT_NAME": "AR Project",
+  "SYMBOL": "ARNFT",
+  "MAX_SUPPLY": 27,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000,
+  "MARKETPLACE": "Opeansea",
+  "MARKETPLACE_LINK": "https://testnets.opensea.io/collection/ar-project",
+  "SHOW_BACKGROUND": true
+}
